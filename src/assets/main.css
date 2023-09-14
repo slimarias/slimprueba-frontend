@@ -1,0 +1,5 @@
+@import './base.css';
+@import 'primevue/resources/themes/bootstrap4-light-blue/theme.css';
+@import "bootstrap/scss/bootstrap.scss";
+@import 'primeicons/primeicons.css';
+@import 'vue-select/dist/vue-select.css';
