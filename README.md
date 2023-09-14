@@ -24,6 +24,11 @@ npm run dev
 
 Para probarlo en desarrollo digitamos http://localhost:5173
 
+Datos de prueba:
+
+Email: *ejemplo@mail.com*
+Contraseña: *123456*
+
 ### Compilación para producción
 
 ```sh
